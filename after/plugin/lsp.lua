@@ -3,8 +3,11 @@ local lsp = require("lsp-zero")
 lsp.preset("recommended")
 
 lsp.ensure_installed({
-  "rust_analyzer",
+  "bashls",
+  "csharp_ls",
+  "jsonls",
   "lua_ls",
+  "rust_analyzer",
 })
 lsp.set_sign_icons({
     error = "✘",
