@@ -28,5 +28,8 @@ return {
   },
   {
     "iamcco/markdown-preview.nvim"
+  },
+  {
+    "rest-nvim/rest.nvim"
   }
 }
