@@ -25,5 +25,8 @@ return {
   },
   {
     "mbbill/undotree"
+  },
+  {
+    "iamcco/markdown-preview.nvim"
   }
 }
